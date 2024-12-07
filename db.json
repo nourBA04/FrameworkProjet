@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "price": 19.99,
+      "description": "Comfortable cotton T-shirt.",
+      "variants": [
+        {
+          "color": "black",
+          "inStock": 10,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/t-shirt_black.jpeg"
+        },
+        {
+          "color": "antiquewhite",
+          "inStock": 5,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/t-shirt_creamy.jpeg"
+        },
+        {
+          "color": "grey",
+          "inStock": 0,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/t-shirt_grey.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pants",
+      "price": 54.99,
+      "description": "Comfortable Pants.",
+      "variants": [
+        {
+          "color": "black",
+          "inStock": 24,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/pants_black.jpeg"
+        },
+        {
+          "color": "beige",
+          "inStock": 9,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/pants_beige.jpeg"
+        },
+        {
+          "color": "grey",
+          "inStock": 12,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/pants_grey.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shirt",
+      "price": 22.99,
+      "description": "Modern Shirt.",
+      "variants": [
+        {
+          "color": "navy",
+          "inStock": 13,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/shirt_navy.jpeg"
+        },
+        {
+          "color": "oldlace",
+          "inStock": 2,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/shirt_nude.jpeg"
+        },
+        {
+          "color": "grey",
+          "inStock": 6,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/shirt_grey.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "price": 79.99,
+      "description": "Comfortable Shoes.",
+      "variants": [
+        {
+          "color": "black",
+          "inStock": 16,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/shoes_black.jpeg"
+        },
+        {
+          "color": "brown",
+          "inStock": 8,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/shoes_brown.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Watch",
+      "price": 125.99,
+      "description": "Classic Watches.",
+      "variants": [
+        {
+          "color": "black",
+          "inStock": 4,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/watch_black.jpeg"
+        },
+        {
+          "color": "green",
+          "inStock": 5,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/watch_green.jpeg"
+        },
+        {
+          "color": "red",
+          "inStock": 2,
+          "image": "https://github.com/nourBA04/FrameworkProjet/blob/main/images/watch_red.jpeg"
+        }
+      ]
+    }
+  ]
+}
